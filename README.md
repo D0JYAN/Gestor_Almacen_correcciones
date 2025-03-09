@@ -36,7 +36,7 @@ Gestor_Almacen
 
   1. Para levantar el proyecto, dentro de nuestro editor de código, abrimos una terminal con la ruta del proyecto.
   2. Una vez dentro del proyecto, en la terminal se escribe el comando `npm run start`.
-  3. Una vez iniciado, en la termina aparecera el mensaje de "Servidor corriendo en http://localhost:3000".
+  3. Una vez iniciado, en la termina aparecera el mensaje de "Servidor corriendo en http://localhost:4000".
   4. Mientras se presionan las teclas Ctrl + Clic izquierdo del mouse sobre el link del servidor, este nos abrirá el navegador y mostrará la ventana para hacer el envio de notificaciones.
 
 # ¿Cómo apagar el proyecto?
